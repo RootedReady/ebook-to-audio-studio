@@ -1,0 +1,51 @@
+{
+  "app": "Rooted Ready eBook To Audio",
+  "version": "1.0.0",
+  "python_version": "3.12",
+  "dependencies": [
+    {
+      "name": "python-docx",
+      "version": "1.1.2",
+      "required": true,
+      "wheel": "python_docx-1.1.2-py3-none-any.whl",
+      "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/python-docx/python_docx-1.1.2-py3-none-any.whl"
+    },
+    {
+      "name": "lxml",
+      "version": "5.1.0",
+      "required": true,
+      "arch_specific": true,
+      "wheel_x64": "lxml-5.1.0-cp312-cp312-win_amd64.whl",
+      "wheel_x86": "lxml-5.1.0-cp312-cp312-win32.whl",
+      "url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/python-docx/lxml-5.1.0-cp312-cp312-win_amd64.whl",
+      "url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/python-docx/lxml-5.1.0-cp312-cp312-win32.whl"
+    },
+    {
+      "name": "reportlab",
+      "version": "4.0.9",
+      "required": true,
+      "arch_specific": true,
+      "wheel_x64": "reportlab-4.0.9-cp312-cp312-win_amd64.whl",
+      "wheel_x86": "reportlab-4.0.9-cp312-cp312-win32.whl",
+      "url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/reportlab/reportlab-4.0.9-cp312-cp312-win_amd64.whl",
+      "url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/reportlab/reportlab-4.0.9-cp312-cp312-win32.whl"
+    },
+    {
+      "name": "pillow",
+      "version": "10.2.0",
+      "required": true,
+      "arch_specific": true,
+      "wheel_x64": "pillow-10.2.0-cp312-cp312-win_amd64.whl",
+      "wheel_x86": "pillow-10.2.0-cp312-cp312-win32.whl",
+      "url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/pillow/pillow-10.2.0-cp312-cp312-win_amd64.whl",
+      "url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/pillow/pillow-10.2.0-cp312-cp312-win32.whl"
+    },
+    {
+      "name": "customtkinter",
+      "version": "5.2.2",
+      "required": true,
+      "wheel": "customtkinter-5.2.2-py3-none-any.whl",
+      "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/main/packages/customtkinter/customtkinter-5.2.2-py3-none-any.whl"
+    }
+  ]
+}
