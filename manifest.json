@@ -24,7 +24,7 @@
       "name": "reportlab",
       "version": "4.4.4",
       "required": true,
-      "wheel": "reportlab-4.4.4-cp312-cp312-win_amd64.whl",
+      "wheel": "reportlab-4.4.4-py3-none-any.whl",
       "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl"
     },
     {
