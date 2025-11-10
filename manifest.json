@@ -27,13 +27,6 @@
       "wheel": "reportlab-4.4.4-py3-none-any.whl",
       "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl"
     },
-	{
-      "name": "pypdf",
-      "version": "6.2.0",
-      "required": true,
-      "wheel": "pypdf-6.2.0-py3-none-any.whl",
-      "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pypdf/pypdf-6.2.0-py3-none-any.whl"
-    },
     {
       "name": "pillow",
       "version": "12.0.0",
@@ -45,15 +38,25 @@
       "url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pillow/pillow-12.0.0-cp312-cp312-win32.whl"
     },
 	{
-      "name": "pymupdf",
-      "version": "1.24.0",
-      "required": true,
-      "arch_specific": true,
-      "wheel_x64": "PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
-      "wheel_x86": "PyMuPDF-1.24.0-cp312-none-win32.whl",
-      "url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
-      "url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win32.whl"
-    },
+		"name": "pymupdf",
+		"version": "1.24.0",
+		"required": true,
+		"arch_specific": true,
+		"wheel_x64": "PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
+		"wheel_x86": "PyMuPDF-1.24.0-cp312-none-win32.whl",
+		"url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
+		"url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win32.whl"
+	},
+	{
+		"name": "pymupdfb",
+		"version": "1.24.0",
+		"required": true,
+		"arch_specific": true,
+		"wheel_x64": "PyMuPDFb-1.24.0-py3-none-win_amd64.whl",
+		"wheel_x86": "PyMuPDFb-1.24.0-py3-none-win32.whl",
+		"url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDFb-1.24.0-py3-none-win_amd64.whl",
+		"url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDFb-1.24.0-py3-none-win32.whl"
+	},
     {
       "name": "customtkinter",
       "version": "5.2.2",
