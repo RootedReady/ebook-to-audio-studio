@@ -44,8 +44,10 @@
 		"arch_specific": true,
 		"wheel_x64": "PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
 		"wheel_x86": "PyMuPDF-1.24.0-cp312-none-win32.whl",
+		"dll": "mupdfcpp64.dll",
 		"url_x64": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win_amd64.whl",
 		"url_x86": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/PyMuPDF-1.24.0-cp312-none-win32.whl"
+		"url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pymupdf/mupdfcpp64.dll"
 	},
 	{
 		"name": "pymupdfb",
