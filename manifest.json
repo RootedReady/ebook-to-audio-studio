@@ -27,6 +27,13 @@
       "wheel": "reportlab-4.4.4-py3-none-any.whl",
       "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/reportlab/reportlab-4.4.4-py3-none-any.whl"
     },
+	{
+      "name": "pypdf",
+      "version": "6.2.0",
+      "required": true,
+      "wheel": "pypdf-6.2.0-py3-none-any.whl",
+      "url": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/packages/pypdf/pypdf-6.2.0-py3-none-any.whl"
+    },
     {
       "name": "pillow",
       "version": "12.0.0",
