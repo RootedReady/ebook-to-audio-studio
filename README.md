@@ -15,7 +15,6 @@ licenses, and nothing here changes them:
 - Piper (MIT), onnxruntime (MIT)
 - espeak-ng (GPL v3), FFmpeg (GPL v3), libtashkeel
 - Voice datasets (CC BY 4.0, public domain and others, listed in each pack)
-- Fonts (mostly SIL Open Font License, listed in each pack)
 
 ## The Rooted Ready apps
 
