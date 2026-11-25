@@ -1,6 +1,18 @@
 {
-  "rootedready-voices-small-v1": "https://drive.usercontent.google.com/download?id=1v4bPyy9vvVHGXTZJBE_uaANluk4w3xzn&export=download&confirm=t",
-  "rootedready-voices-en-core-varied-voices": "https://drive.usercontent.google.com/download?id=1sGF8jXO8TaiAbGKLv6Trn7ISL23P-FYP&export=download&confirm=t",
+  "rootedready-voices-small-v1": {
+    "urls": [
+      "https://drive.usercontent.google.com/download?id=1v4bPyy9vvVHGXTZJBE_uaANluk4w3xzn&export=download&confirm=t",
+      "https://archive.org/download/rootedready-voices-small-v1/rootedready-voices-small-v1.zip"
+    ],
+    "sha256": "4d3ae4078c1375a51addd07a9ec8a9b6bf37204f90fdc9cbb81abbc8c2eaa327"
+  },
+  "rootedready-voices-en-core-varied-voices": {
+    "urls": [
+      "https://drive.usercontent.google.com/download?id=1sGF8jXO8TaiAbGKLv6Trn7ISL23P-FYP&export=download&confirm=t",
+      "https://archive.org/download/rootedready-voices-en-core-varied-voices/rootedready-voices-en-core-varied-voices.zip"
+    ],
+    "sha256": "269fde1b7869d4d010e1ccd9f03a4a2f79b3ce396ff8a2458bca4585f5b8314e"
+  },
   "rootedready-voices-samples-v1": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-samples-v1.zip",
   "rootedready-piper-windows-amd64-v1": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/piper_windows_amd64.zip",
   "rootedready-ffmpeg-windows-amd64-v1": "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/ffmpeg_windows_amd64.zip"
