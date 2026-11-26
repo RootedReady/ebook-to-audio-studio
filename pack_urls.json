@@ -2,6 +2,7 @@
   "rootedready-voices-small-v1": {
     "urls": [
       "https://archive.org/download/rootedready-voices-small-v1/rootedready-voices-small-v1.zip",
+      "https://github.com/RootedReady/ebook-to-audio-studio/releases/download/rooted_ready_packs_v1/rootedready-voices-small-v1.zip",
       "https://drive.usercontent.google.com/download?id=1v4bPyy9vvVHGXTZJBE_uaANluk4w3xzn&export=download&confirm=t",
       "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-small-v1.zip"
     ],
@@ -10,6 +11,7 @@
   "rootedready-voices-en-core-varied-voices": {
     "urls": [
       "https://drive.usercontent.google.com/download?id=1sGF8jXO8TaiAbGKLv6Trn7ISL23P-FYP&export=download&confirm=t",
+      "https://github.com/RootedReady/ebook-to-audio-studio/releases/download/rooted_ready_packs_v1/rootedready-voices-en-core-varied-voices.zip",
       "https://archive.org/download/rootedready-voices-en-core-varied-voices/rootedready-voices-en-core-varied-voices.zip",
       "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-en-core-varied-voices.zip"
     ],
@@ -17,25 +19,28 @@
   },
   "rootedready-voices-samples-v1": {
     "urls": [
-      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-samples-v1.zip",
+      "https://github.com/RootedReady/ebook-to-audio-studio/releases/download/rooted_ready_packs_v1/rootedready-voices-samples-v1.zip",
       "https://archive.org/download/rootedready-voices-samples-v1/rootedready-voices-samples-v1.zip",
-      "https://drive.usercontent.google.com/download?id=1dG_mi3BvBLEppSSkMQiDdsteabLUr04Z&export=download&confirm=t"
+      "https://drive.usercontent.google.com/download?id=1dG_mi3BvBLEppSSkMQiDdsteabLUr04Z&export=download&confirm=t",
+      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-samples-v1.zip"
     ],
     "sha256": "af8925fb62f9a677ec73a8d1abe645af9d79bcad31e0667fe6709011d9648b94"
   },
   "rootedready-piper-windows-amd64-v1": {
     "urls": [
-      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/piper_windows_amd64.zip",
+      "https://github.com/RootedReady/ebook-to-audio-studio/releases/download/rooted_ready_packs_v1/piper_windows_amd64.zip",
       "https://archive.org/download/piper_windows_amd64/piper_windows_amd64.zip",
-      "https://drive.usercontent.google.com/download?id=14RvqoSExymU9MW6-zISs2Fe0HvC0-FPb&export=download&confirm=t"
+      "https://drive.usercontent.google.com/download?id=14RvqoSExymU9MW6-zISs2Fe0HvC0-FPb&export=download&confirm=t",
+      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/piper_windows_amd64.zip"
     ],
     "sha256": "8fea242443b0dc380cd8adb64a271515bb5a9ea939bccf7803277964edf491aa"
   },
   "rootedready-ffmpeg-windows-amd64-v1": {
     "urls": [
-      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/ffmpeg_windows_amd64.zip",
+      "https://github.com/RootedReady/ebook-to-audio-studio/releases/download/rooted_ready_packs_v1/ffmpeg_windows_amd64.zip",
       "https://archive.org/download/ffmpeg_windows_amd64/ffmpeg_windows_amd64.zip",
-      "https://drive.usercontent.google.com/download?id=1mOt3DMyzVLJRpuDO_FXFRNDlxreVfsTy&export=download&confirm=t"
+      "https://drive.usercontent.google.com/download?id=1mOt3DMyzVLJRpuDO_FXFRNDlxreVfsTy&export=download&confirm=t",
+      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/ffmpeg_windows_amd64.zip"
     ],
     "sha256": "4691d9c11834b4cc5ea8f233f674479c19417c95a0e4f01a4fdb824cf0d081bc"
   }
