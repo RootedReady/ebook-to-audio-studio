@@ -1,13 +1,15 @@
 {
   "rootedready-voices-small-v1": {
     "urls": [
-      "https://drive.usercontent.google.com/download?id=1v4bPyy9vvVHGXTZJBE_uaANluk4w3xzn&export=download&confirm=t",
-      "https://archive.org/download/rootedready-voices-small-v1/rootedready-voices-small-v1.zip"
+	  "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-small-v1.zip",
+      "https://archive.org/download/rootedready-voices-small-v1/rootedready-voices-small-v1.zip",
+	  "https://drive.usercontent.google.com/download?id=1v4bPyy9vvVHGXTZJBE_uaANluk4w3xzn&export=download&confirm=t"
     ],
     "sha256": "4d3ae4078c1375a51addd07a9ec8a9b6bf37204f90fdc9cbb81abbc8c2eaa327"
   },
   "rootedready-voices-en-core-varied-voices": {
     "urls": [
+      "https://github.com/RootedReady/ebook-to-audio-studio/raw/refs/heads/main/zips/rootedready-voices-en-core-varied-voices.zip",
       "https://drive.usercontent.google.com/download?id=1sGF8jXO8TaiAbGKLv6Trn7ISL23P-FYP&export=download&confirm=t",
       "https://archive.org/download/rootedready-voices-en-core-varied-voices/rootedready-voices-en-core-varied-voices.zip"
     ],
